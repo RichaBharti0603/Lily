@@ -1,15 +1,15 @@
 # Lily
 
-💡 Problem Statement
+<b>💡Problem Statement</b><br>
 Victims of domestic violence often can't call for help openly due to fear, surveillance, or proximity to their abuser. There is a need for a discreet, secure, and fast way to alert authorities or trusted contacts silently.
 
-🎯 Objective
+<b>🎯 Objective</b><br>
 To develop a mobile application that enables users to send silent alerts (via tap pattern, voice command, or background button) to pre-configured emergency contacts or authorities without drawing attention.
 
-🛠️ Core Features
+<b>🛠️ Core Features</b><br>
 
-Feature	Description
-🔕 Silent SOS Trigger	Triple-tap on the phone screen, shake device, or whisper a code word to send an alert.
+<b>Feature	Description</b> <br>
+🔕 Silent SOS Trigger	Triple-tap on the phone screen, shake device, or whisper a code word to send an alert.<br>
 📍 Location Tracking	Sends current GPS location to emergency contacts.
 🗣️ Secret Voice Command	User whispers a configured safe word (e.g., "I'm okay") that triggers an alert.
 🧍‍♀️ Fake Interface	App looks like a harmless utility (e.g., calculator), but turns into emergency mode on input.
@@ -18,7 +18,8 @@ Feature	Description
 💌 Emergency Contact Setup	User adds trusted contacts who receive alerts.
 🛑 Cancel Alert Button	A hidden pattern/word to cancel accidental alerts.
 📖 Awareness & Resources	Includes legal help, helpline numbers, support groups, blogs.
-📱 Tech Stack (Mobile App First)
+<b>
+📱 Tech Stack (Mobile App First)</b> <br>
 Frontend: Flutter (cross-platform UI)
 
 Backend: Firebase (for Realtime DB, Auth, Notifications)
@@ -51,14 +52,14 @@ User Dashboard
 → Awareness material
 → Cancel alert functionality
 
-🎨 Design Vibe
+<b>🎨 Design Vibe </b><br>
 Minimalist and calm color scheme (lavender, soft greys)
 
 Clean, discreet UI (think: looks like a utility app)
 
 Easily accessible emergency trigger without needing to unlock app
 
-🌐 Future Add-ons
+<b>🌐 Future Add-ons</b> <br>
 Multilingual support
 
 Real-time chat with a counselor
